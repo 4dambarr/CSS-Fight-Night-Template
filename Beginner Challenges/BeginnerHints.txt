@@ -1,0 +1,19 @@
+1. Greenyellow square, green background, 5px margin
+
+2. palevioletred square on indigo background, centered (display:flex)
+
+3. black square with darkslateblue dashed border centered with aquamarine background
+
+4. Squares centered horizontally and 10px apart, colours: red, wheat, black
+
+5. darkblue circle in the middle and bottom of coral background
+
+6. 4 equally sized white circles on black background
+
+7. Red and white lollipop, with burlywood stick and skyblue background
+
+8. Black triangle on top of gold square, triangle is full width of the top and point is at the center of the square
+
+9. Two triangles, both bases 100px long and 50px tall, meeting in exact center of square
+
+10. Colours are lightcoral and dark red, no more hints you made it this far
