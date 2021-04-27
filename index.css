@@ -61,6 +61,22 @@
 /*--CHALLENGE 1 STYLING */
 /* Please put all the styling for challenge 1 here */
 #Challenge-1 {
+  background-color: pink;
+}
+
+.Example-Square-Top-Left {
+  width: 50%;
+  height: 50%;
+  background-color: brown;
+}
+
+.Example-Square-Bottom-Right {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  background-color: brown;
+  right: 0px;
+  bottom: 0px;
 }
 
 /*--CHALLENGE 2 STYLING */
@@ -71,6 +87,14 @@
 /*--CHALLENGE 3 STYLING */
 /* Please put all the styling for challenge 3 here */
 #Challenge-3 {
+  background-color: red;
+}
+.Challenge-3-Triangle {
+  width: 0;
+  height: 0;
+  border-right: 100px solid transparent;
+  border-left: 100px solid transparent;
+  border-top: 100px solid wheat;
 }
 
 /*--CHALLENGE 4 STYLING */
